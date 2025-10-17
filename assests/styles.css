@@ -48,3 +48,4 @@ details.ti-card[open]{border-color:#cfe7d7}
 .contact-links{display:flex;gap:12px}
 .contact-links a{padding:10px 14px;border-radius:12px;background:#fff;border:1px solid var(--line);box-shadow:var(--shadow);font-weight:800}
 .contact-links a:hover{transform:translateY(-2px)}
+
